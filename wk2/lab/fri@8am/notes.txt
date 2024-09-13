@@ -1,0 +1,26 @@
+sequential
+	has indexes
+
+[one_number] => get value at that index
+
+[n1:n2] => start at n1, go up to but NOT including n2. By default len(sequence)
+
+[n1:n2:n3] => n3 = step value
+
+
+
+
+
+
+index	0	1	2	3	4
+	-5	-4	-3	-2	-1
+
+value
+
+	H	E	L	L	O
+
+
+
+
+{lastname}, {firstname}
+
