@@ -1,0 +1,18 @@
+In 1 python file
+
+-Create a global variable named temperature
+    -give it a random value between 1 and 20
+
+-Create a thread that reads that temperature value
+- and only alters if if the temperature is odd
+- alters it by adding 3 to the temperatures
+-repeat this action (time.sleep) every 1 second
+-run this thread
+
+Create a thread that always decreases the global temperature
+value by 1
+repeat this action every 2 seconds
+-run this thread
+
+-note your observations from running the two threads
+
