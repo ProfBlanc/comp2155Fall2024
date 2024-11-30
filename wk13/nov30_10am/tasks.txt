@@ -1,0 +1,15 @@
+In 1 python file
+
+-Create a thread that outlines odd numbers 1-19 between 1 and 19
+-Run the thread
+
+-Create a thread that asks user to enter 3 fruits, then outputs
+these fruits on a new line
+-Run the thread
+
+-Output a message thanking user for using the program
+
+Create a text file and note your observations
+
+Bonus: force the main thread to wait for the execution of
+thread 1 and thread 2 before finishing the main thread
