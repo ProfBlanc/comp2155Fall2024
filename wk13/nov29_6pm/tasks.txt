@@ -1,0 +1,17 @@
+Task 1
+Create a thread that outputs odd numbers from 1 to 19
+All numbers should be outputted on new line
+Start the thread
+
+Task 2
+Create a thread that asks the user for 3 fruits
+Then output the three fruits on new line
+Start the thread
+
+Task 3
+After running Task 1 and Task 2 one after the other,
+write your observations
+
+Task 4
+Force the main thread to wait for Task 1 to finish before running Task 2
+
